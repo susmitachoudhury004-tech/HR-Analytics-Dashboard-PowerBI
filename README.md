@@ -7,6 +7,10 @@ Objective
 
 To help organizations reduce employee attrition and improve employee retention by providing actionable insights through an interactive HR Analytics Dashboard.
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](Images/HR_Dashboard.png)
+
 Dashboard Features-
 
 Employee Count Analysis
