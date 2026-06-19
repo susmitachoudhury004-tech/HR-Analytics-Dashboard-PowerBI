@@ -10,41 +10,41 @@ To help organizations reduce employee attrition and improve employee retention b
 Dashboard Features-
 
 Employee Count Analysis
-Attrition and Attrition Rate Tracking
-Average Age, Salary, and Years at Company
-Attrition by Education
-Attrition by Age Group
-Attrition by Salary Range
-Attrition by Years at Company
-Attrition by Job Role
-Gender-wise Attrition Analysis
-Department-wise Filtering
+Attrition and Attrition Rate Tracking,
+Average Age, Salary, and Years at Company,
+Attrition by Education,
+Attrition by Age Group,
+Attrition by Salary Range,
+Attrition by Years at Company,
+Attrition by Job Role,
+Gender-wise Attrition Analysis,
+Department-wise Filtering.
 
 Tools & Technologies-
 
-Power BI
-Power Query
-DAX
-Data Visualization
+Power BI,
+Power Query,
+DAX,
+Data Visualization,
 HR Analytics.
 
 Key Insights-
 
-Overall Attrition Rate: 16.1%
-Highest attrition observed among employees aged 26–35.
-Most attrition occurred in the salary range below 5K.
-Laboratory Technicians and Sales Executives showed higher attrition rates.
-Life Sciences background employees contributed significantly to attrition.
+Overall Attrition Rate: 16.1%,
+Highest attrition observed among employees aged 26–35,
+Most attrition occurred in the salary range below 5K,
+Laboratory Technicians and Sales Executives showed higher attrition rates,
+Life Sciences background employees contributed significantly to attrition,
 
 Skills Demonstrated-
 
-Data Cleaning
-Data Modeling
-DAX Calculations
-Interactive Dashboard Design
-HR Analytics
-Data Visualization
-Business Intelligence
+Data Cleaning,
+Data Modeling,
+DAX Calculations,
+Interactive Dashboard Design,
+HR Analytics,
+Data Visualization,
+Business Intelligence,
 
 Author-
 Sushmita Choudhury
